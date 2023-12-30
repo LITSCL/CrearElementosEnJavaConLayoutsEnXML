@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView texto1Tv;
     private TextView texto2Tv;
     private TextView texto3Tv;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
